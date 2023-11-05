@@ -1,11 +1,12 @@
+// import logo from './logo.svg';
+import './App.css';
+import Counter from './component/Counter';
 
-import Login from "./pages/login";
+
 
 function App() {
   return (
-    <>
-      <Login />
-    </>
+      <Counter/>
   );
 }
 
