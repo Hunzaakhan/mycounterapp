@@ -1,6 +1,4 @@
 .upper {
-
-
     width: 200px;
     border: 1px solid #ccc;
     padding: 10px;
@@ -21,9 +19,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-.btns {
-   
-    
+.btns {    
     background-color:rgb(32, 145, 145);
     color: #fff;
     border: none;
